@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 👤 **Ro'zmamatov Shaxriyor** — Full-Stack & Mobile Developer
+- 👤 **Ro'zmamatov Shaxriyor** — Full-Stack
 - 🌍 Based in **Namangan, Uzbekistan** 🇺🇿
 - ♟️ Chess player · 💻 Coding · ✈️ Traveling
 - 🧠 Strong memory & always eager to learn something new
