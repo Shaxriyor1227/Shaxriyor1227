@@ -15,7 +15,6 @@
 - 🌍 Based in **Namangan, Uzbekistan** 🇺🇿
 - ♟️ Chess player · 💻 Coding · ✈️ Traveling
 - 🧠 Strong memory & always eager to learn something new
-- 🔁 Lifelong learner — I never stop exploring new technologies
 - 🌙 Currently building **Luna** — an AI companion mobile app
 
 ---
