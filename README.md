@@ -25,9 +25,9 @@ Building **Luna**, an AI companion mobile app — persona-based chat, JWT authen
 Flutter · FastAPI · SQLite · JWT
 *Private, in development*
 
-**Bistro Bliss — Restaurant Website**
+**IdeaLab — Startup Validation in 60-seconds**
 React · JavaScript · CSS3
-[View on GitHub](https://github.com/Shaxriyor1227/bistro-bliss)
+
 
 ## Contact
 
