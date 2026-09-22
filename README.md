@@ -1,3 +1,5 @@
+<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.6; color: #e6edf3;">
+
 <div align="center">
 
 # Hi, I'm Shaxriyor Ro'zmamatov 👋
@@ -78,5 +80,7 @@ An AI-powered content workflow that researches topics and automatically publishe
 <div align="center">
 
 *Thanks for visiting — feel free to explore my repositories and connect with me!*
+
+</div>
 
 </div>
