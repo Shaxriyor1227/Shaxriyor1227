@@ -67,13 +67,6 @@ An AI-powered content workflow that researches topics and automatically publishe
 
 `React` · `Node.js` · `Express` · `OpenRouter` · `Gemini` · `Tavily`
 
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaxriyor1227&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxriyor1227&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
-</div>
-
 ## Let's connect
 
 <p>
