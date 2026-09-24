@@ -57,7 +57,7 @@
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [**IdeaLab**](https://github.com/Shaxriyor1227/IdeaLab) | AI-powered startup idea validation with SWOT analysis, market scoring, competitor insights, and actionable recommendations. | React · JavaScript |
-| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | JavaScript |
+| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React · Node.js · PostSQL|
 | [**Kepio**](https://github.com/Shaxriyor1227/Kepio) | Bilingual personal notebook for saving, organizing, and acting on useful information from Telegram and the web. | TypeScript |
 | [**MiniShop**](https://github.com/Shaxriyor1227/MiniShop) | Full-stack e-commerce platform with authentication, product management, and API documentation. | React · Node.js · Express · MongoDB |
 
