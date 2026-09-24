@@ -57,9 +57,10 @@
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [**IdeaLab**](https://github.com/Shaxriyor1227/IdeaLab) | AI-powered startup idea validation with SWOT analysis, market scoring, competitor insights, and actionable recommendations. | React · JavaScript |
-| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React · Node.js · PostSQL|
+| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React · Node.js · PostgreSQL |
 | [**Kepio**](https://github.com/Shaxriyor1227/Kepio) | Bilingual personal notebook for saving, organizing, and acting on useful information from Telegram and the web. | TypeScript |
 | [**MiniShop**](https://github.com/Shaxriyor1227/MiniShop) | Full-stack e-commerce platform with authentication, product management, and API documentation. | React · Node.js · Express · MongoDB |
+| [**Emberly**](https://github.com/Shaxriyor1227/Emberly) | AI-powered content platform for creating, editing, and publishing posts with integrated AI services. | React · Vite · Tailwind CSS · Node.js · Express |
 
 ## Currently building
 
@@ -73,7 +74,7 @@ An AI-powered content workflow that researches topics and automatically publishe
 
 <p>
   <a href="https://github.com/Shaxriyor1227"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://t.me/Rozmamatov_Shaxriyor"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/Rozmamatov_Shaxriyor"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
   <a href="mailto:kiyotasakiayanakoji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
