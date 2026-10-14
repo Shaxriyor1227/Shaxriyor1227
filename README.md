@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/Shaxriyor1227">
-    <img src="https://komarev.com/ghpvc/?username=Shaxriyor1227&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Shaxriyor1227&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/Shaxriyor1227?tab=followers">
     <img src="https://img.shields.io/github/followers/Shaxriyor1227?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
@@ -56,19 +56,19 @@
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [**IdeaLab**](https://github.com/Shaxriyor1227/IdeaLab) | AI-powered startup idea validation with SWOT analysis, market scoring, competitor insights, and actionable recommendations. | React · JavaScript |
-| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React · Node.js · PostgreSQL |
+| [**IdeaLab**](https://github.com/Shaxriyor1227/IdeaLab) | AI-powered startup idea validation with SWOT analysis, market scoring, competitor insights, and actionable recommendations. | React · JavaScript · Vite |
+| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React · TypeScript · Node.js |
 | [**Kepio**](https://github.com/Shaxriyor1227/Kepio) | Bilingual personal notebook for saving, organizing, and acting on useful information from Telegram and the web. | TypeScript |
 | [**MiniShop**](https://github.com/Shaxriyor1227/MiniShop) | Full-stack e-commerce platform with authentication, product management, and API documentation. | React · Node.js · Express · MongoDB |
-| [**Emberly**](https://github.com/Shaxriyor1227/Emberly) | AI-powered content platform for creating, editing, and publishing posts with integrated AI services. | React · Vite · Tailwind CSS · Node.js · Express |
+| [**Emberly**](https://github.com/Shaxriyor1227/Emberly) | AI-powered content platform for creating, editing, and publishing posts with integrated AI services. | React · Vite · Tailwind CSS · Node.js |
 
 ## Currently building
 
-### Emberly — AI Content Agent
+### DentUz — Modern Dental Clinic Operating System
 
-An AI-powered content workflow that researches topics and automatically publishes text and images to a Telegram channel.
+A modern dental clinic management platform with a 32-tooth FDI odontogram, real-time chair monitoring, appointment scheduling, treatment planning with PDF export, and financial ledger tracking.
 
-`React` · `Node.js` · `Express` · `OpenRouter` · `Gemini` · `Tavily`
+`React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` · `AI`
 
 ## Let's connect
 
