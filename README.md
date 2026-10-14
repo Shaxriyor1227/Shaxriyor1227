@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Shaxriyor1227?tab=repositories">Explore my work</a>
+  <a href="https://shaxriyorr.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
   ·
   <a href="mailto:kiyotasakiayanakoji@gmail.com">Get in touch</a>
 </p>
