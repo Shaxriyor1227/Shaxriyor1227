@@ -84,4 +84,10 @@ An AI-powered content workflow that researches topics and automatically publishe
 
 </div>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
 </div>
