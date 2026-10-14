@@ -7,11 +7,8 @@
 ### Full-Stack & Mobile Developer · Product Builder · AI Enthusiast
 
 <p>
-  <a href="https://github.com/Shaxriyor1227">
-    <img src="https://komarev.com/ghpvc/?username=Shaxriyor1227&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
-  </a>
   <a href="https://github.com/Shaxriyor1227?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shaxriyor1227?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Shaxriyor1227?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
   </a>
 </p>
 
