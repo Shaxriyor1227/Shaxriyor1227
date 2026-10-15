@@ -39,7 +39,7 @@
 
 ### Dasturlash tillari
 
-![Languages](https://skillicons.dev/icons?i=typescript,js,python)
+![Languages](https://skillicons.dev/icons?i=typescript,js,nodejs,python)
 
 ### Frontend
 
