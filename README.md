@@ -43,7 +43,7 @@
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwindcss)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwindcss)
 
 ### Backend & Mobile
 
