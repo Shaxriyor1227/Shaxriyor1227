@@ -37,27 +37,36 @@
 
 ## Tech stack
 
+### Dasturlash tillari
+
+![Languages](https://skillicons.dev/icons?i=typescript,js,python)
+
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwindcss)
 
 ### Backend & Mobile
 
-![Backend and mobile](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flutter,dart,sqlite)
+![Backend and mobile](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flutter,dart,sqlite,mongodb)
 
 ### Tools & Design
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,cli)
+
+### Tools & AI
+
+- Antigravity (I use this regularly)
+- Claude Code (I use Claude Code as well)
 
 ## Featured projects
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [**IdeaLab**](https://github.com/Shaxriyor1227/IdeaLab) | AI-powered startup idea validation with SWOT analysis, market scoring, competitor insights, and actionable recommendations. | React · JavaScript · Vite |
-| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React · TypeScript · Node.js |
+| [**IdeaLab**](https://github.com/Shaxriyor1227/IdeaLab) | AI-powered startup idea validation with SWOT analysis, market scoring, competitor insights, and actionable recommendations. | React · J[...] 
+| [**DentUz**](https://github.com/Shaxriyor1227/DentUz) | Dental clinic operating system with an interactive odontogram, appointments, treatment plans, PDF export, and financial tracking. | React [...] 
 | [**Kepio**](https://github.com/Shaxriyor1227/Kepio) | Bilingual personal notebook for saving, organizing, and acting on useful information from Telegram and the web. | TypeScript |
-| [**MiniShop**](https://github.com/Shaxriyor1227/MiniShop) | Full-stack e-commerce platform with authentication, product management, and API documentation. | React · Node.js · Express · MongoDB |
-| [**Emberly**](https://github.com/Shaxriyor1227/Emberly) | AI-powered content platform for creating, editing, and publishing posts with integrated AI services. | React · Vite · Tailwind CSS · Node.js |
+| [**MiniShop**](https://github.com/Shaxriyor1227/MiniShop) | Full-stack e-commerce platform with authentication, product management, and API documentation. | React · Node.js · Express · MongoD[...] 
+| [**Emberly**](https://github.com/Shaxriyor1227/Emberly) | AI-powered content platform for creating, editing, and publishing posts with integrated AI services. | React · Vite · Tailwind CSS · [...]
 
 ## Currently building
 
